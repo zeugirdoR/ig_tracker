@@ -1,0 +1,6 @@
+### Step 3: The Requirements File
+Open `requirements.txt` and paste this in:
+```text
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
